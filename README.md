@@ -136,6 +136,3 @@ To deploy the app on Render:
 - **Bad Gateway Error**: Ensure that the Flask app is running correctly and check your deployment settings.
 - **Invalid API Key**: If the flowchart is not being generated, ensure that you have set your **GROQ_API_KEY** correctly in the `.env` file.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
